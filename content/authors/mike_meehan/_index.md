@@ -18,24 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Mike is a graduate student using computation fluid dynamics to understand fundamental physics in turbulent combustion problems.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Fluid Dynamics
+- Adaptive Mesh Refinement
+- Modal Decompositions
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BS in Mechanical Engineering
+    institution: The Pennsylvania State University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +38,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:michael.a.meehan@colorado.edu'  # For a direct email link, use "mailto:mime5507@colorado.edu".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?authuser=1&user=Owl_WsQAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mameehan5
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -68,11 +59,6 @@ email: "michael.a.meehan@colorado.edu"
 user_groups:
 - Grad Students
 ---
+Mike’s research focuses on two main area: highly buoyancy driven flows with applications to industrial burners and large scale fires, and highly turbulent interacting flame configurations with applications to Air Force relevant problems. In both situations, adaptive mesh refinement (AMR) can be used to help reduce computational cost when dealing with the large separation of temporal and spatial scales. Additionally, Mike explores the dynamics using modal decompositions, such as proper orthogonal decomposition (POD) and dynamic mode decomposition (DMD). Future work is to develop reduced order models from large scale simulations from the Pele code suite (PeleLM and PeleC) using some of these modal decomposition techniques. 
 
-Mike is a grad student.
-
-Yo.
-
-Yo.
-
-Yo.
+Mike is funded by the National Science Foundation Graduate Research Fellowship under Grant No. DGE 1650115.
